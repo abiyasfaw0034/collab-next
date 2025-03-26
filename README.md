@@ -1,6 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
+This is a nextjs project just exploring next auth authentication purely using email and password, i used to always get frustrated with always using third-party-libraries but in this one its clear and it does the work
 
 First, run the development server:
 
